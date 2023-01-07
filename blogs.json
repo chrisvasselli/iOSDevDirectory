@@ -2898,6 +2898,14 @@
             "twitter_url": "https://twitter.com/nickgmcconnell"
           },
           {
+            "title": "Nihongo Blog: The making of a modern Japanese dictionary",
+            "author": "Chris Vasselli",
+            "site_url": "https://blog.nihongo-app.com/tag/development/",
+            "feed_url": "https://blog.nihongo-app.com/tag/development/rss",
+            "twitter_url": "https://twitter.com/chrisvasselli",
+            "mastodon_url": "https://mstdn.social/@chrisvasselli"
+          },
+          {
             "title": "Nikita Lazarev-Zubov on Medium",
             "author": "Nikita Lazarev-Zubov",
             "site_url": "https://medium.com/@lazarevzubov",
